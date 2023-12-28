@@ -1,6 +1,6 @@
 ## Test For Company : Paper.id
 
-<hr/>
+---
 
 ## Questions
 
@@ -10,7 +10,7 @@ disbursed.
 - Write API (only 1 endpoint) for disbursement case only
 - User data and balances can be stored as hard coded or database
 
-<hr/>
+---
 
 ## Getting Started
 ### Prerequisites
